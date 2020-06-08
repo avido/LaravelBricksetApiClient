@@ -1,0 +1,2941 @@
+{
+    "status": "success",
+    "matches": 608,
+    "sets": [
+        {
+            "setID": 29830,
+            "number": "10270",
+            "numberVariant": 1,
+            "name": "Bookshop",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "subtheme": "Modular Buildings",
+            "category": "Normal",
+            "released": true,
+            "pieces": 2504,
+            "minifigs": 5,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10270-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10270-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10270-1",
+            "collection": {
+                "owned": true,
+                "wanted": false,
+                "qtyOwned": 1,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 3639,
+                "wantedBy": 5041
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 179.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-05-07T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 149.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 199.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-05-07T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 159.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 4.5,
+            "reviewCount": 2,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 4,
+            "additionalImageCount": 37,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {
+                "height": 37.3,
+                "width": 57.8,
+                "depth": 10.2,
+                "weight": 2.946
+            },
+            "barcode": {
+                "EAN": "5702016667974"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-01-09T21:00:01.523Z"
+        },
+        {
+            "setID": 29962,
+            "number": "10271",
+            "numberVariant": 1,
+            "name": "Fiat 500",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "subtheme": "Vehicles",
+            "category": "Normal",
+            "released": true,
+            "pieces": 960,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10271-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10271-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10271-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 2117,
+                "wantedBy": 1955
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 89.99,
+                    "dateFirstAvailable": "2020-03-01T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 74.99,
+                    "dateFirstAvailable": "2020-03-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 129.99,
+                    "dateFirstAvailable": "2020-03-01T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-03-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 2,
+            "additionalImageCount": 37,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {
+                "height": 28,
+                "width": 47.8,
+                "depth": 7,
+                "weight": 1.107
+            },
+            "barcode": {
+                "EAN": "5702016667981"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-03-31T20:20:37.963Z"
+        },
+        {
+            "setID": 29878,
+            "number": "10272",
+            "numberVariant": 1,
+            "name": "Old Trafford - Manchester United",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "subtheme": "Buildings",
+            "category": "Normal",
+            "released": true,
+            "pieces": 3898,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10272-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10272-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10272-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 702,
+                "wantedBy": 1034
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 299.99,
+                    "dateFirstAvailable": "2020-01-17T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 249.99,
+                    "dateFirstAvailable": "2020-01-17T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 349.99,
+                    "dateFirstAvailable": "2020-01-17T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 269.99,
+                    "dateFirstAvailable": "2020-01-18T00:00:00Z"
+                }
+            },
+            "rating": 5,
+            "reviewCount": 1,
+            "packagingType": "Box",
+            "availability": "LEGO exclusive",
+            "instructionsCount": 2,
+            "additionalImageCount": 14,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016667998"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-04-10T20:20:34.653Z"
+        },
+        {
+            "setID": 30315,
+            "number": "10273",
+            "numberVariant": 1,
+            "name": "Haunted House",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "subtheme": "Fairground",
+            "category": "Normal",
+            "released": true,
+            "pieces": 3231,
+            "minifigs": 10,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10273-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10273-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10273-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 765,
+                "wantedBy": 2477
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 249.99,
+                    "dateFirstAvailable": "2020-05-21T00:00:00Z",
+                    "dateLastAvailable": "2020-05-21T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 209.99,
+                    "dateFirstAvailable": "2020-05-21T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 299.99,
+                    "dateFirstAvailable": "2020-05-21T00:00:00Z",
+                    "dateLastAvailable": "2020-05-21T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 229.99,
+                    "dateFirstAvailable": "2020-05-22T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 2,
+            "additionalImageCount": 28,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016668001"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-13T15:39:38.327Z"
+        },
+        {
+            "setID": 30316,
+            "number": "10274",
+            "numberVariant": 1,
+            "name": "{?}",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "category": "Normal",
+            "released": false,
+            "image": {},
+            "bricksetURL": "https://brickset.com/sets/10274-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "wantedBy": 204
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {},
+                "CA": {},
+                "DE": {}
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 0,
+            "additionalImageCount": 0,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {},
+            "extendedData": {},
+            "lastUpdated": "2020-05-11T19:57:47.657Z"
+        },
+        {
+            "setID": 30317,
+            "number": "10275",
+            "numberVariant": 1,
+            "name": "{?}",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "category": "Normal",
+            "released": false,
+            "image": {},
+            "bricksetURL": "https://brickset.com/sets/10275-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "wantedBy": 202
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {},
+                "CA": {},
+                "DE": {}
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 0,
+            "additionalImageCount": 0,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {},
+            "extendedData": {},
+            "lastUpdated": "2020-05-11T19:57:54.563Z"
+        },
+        {
+            "setID": 30318,
+            "number": "10276",
+            "numberVariant": 1,
+            "name": "{?}",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "category": "Normal",
+            "released": false,
+            "image": {},
+            "bricksetURL": "https://brickset.com/sets/10276-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "wantedBy": 199
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {},
+                "CA": {},
+                "DE": {}
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 0,
+            "additionalImageCount": 0,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {},
+            "extendedData": {},
+            "lastUpdated": "2020-05-11T19:58:00.017Z"
+        },
+        {
+            "setID": 30319,
+            "number": "10277",
+            "numberVariant": 1,
+            "name": "{?}",
+            "year": 2020,
+            "theme": "Creator Expert",
+            "themeGroup": "Model making",
+            "category": "Normal",
+            "released": false,
+            "image": {},
+            "bricksetURL": "https://brickset.com/sets/10277-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "wantedBy": 312
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {},
+                "CA": {},
+                "DE": {}
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 0,
+            "additionalImageCount": 0,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {},
+            "extendedData": {},
+            "lastUpdated": "2020-05-11T19:58:04.25Z"
+        },
+        {
+            "setID": 29752,
+            "number": "10909",
+            "numberVariant": 1,
+            "name": "Heart Box",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 80,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10909-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10909-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10909-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 25,
+                "wantedBy": 26
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 17.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 0,
+            "additionalImageCount": 4,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617733"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:11.71Z"
+        },
+        {
+            "setID": 29753,
+            "number": "10913",
+            "numberVariant": 1,
+            "name": "Brick Box",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 65,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10913-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10913-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10913-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 31,
+                "wantedBy": 21
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Tag",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617740"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:11.71Z"
+        },
+        {
+            "setID": 29754,
+            "number": "10914",
+            "numberVariant": 1,
+            "name": "Deluxe Brick Box",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 85,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10914-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10914-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10914-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 19,
+                "wantedBy": 23
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 49.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 44.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 49.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Tub",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 3,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617757"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:16.15Z"
+        },
+        {
+            "setID": 29755,
+            "number": "10915",
+            "numberVariant": 1,
+            "name": "Alphabet Truck",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 36,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10915-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10915-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10915-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 78,
+                "wantedBy": 84
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 34.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 0,
+            "additionalImageCount": 4,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617764"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:24.557Z"
+        },
+        {
+            "setID": 29756,
+            "number": "10917",
+            "numberVariant": 1,
+            "name": "Fire Truck",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 6,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10917-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10917-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10917-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 71,
+                "wantedBy": 26
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 6.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box with backing card",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {},
+            "dimensions": {
+                "height": 20.5,
+                "width": 12.6,
+                "depth": 6.7,
+                "weight": 0.149
+            },
+            "barcode": {
+                "EAN": "5702016618075"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-01-15T21:58:18.39Z"
+        },
+        {
+            "setID": 29757,
+            "number": "10918",
+            "numberVariant": 1,
+            "name": "Tow Truck",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 7,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10918-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10918-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10918-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 66,
+                "wantedBy": 22
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 6.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box with backing card",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618082"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:25.977Z"
+        },
+        {
+            "setID": 30351,
+            "number": "10919",
+            "numberVariant": 1,
+            "name": "Batcave",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 33,
+            "minifigs": 3,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10919-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10919-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10919-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 4,
+                "wantedBy": 51
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 34.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 1,
+            "additionalImageCount": 10,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618099"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:10:31.62Z"
+        },
+        {
+            "setID": 29758,
+            "number": "10920",
+            "numberVariant": 1,
+            "name": "Elsa and Olaf's Tea Party",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 17,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10920-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10920-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10920-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 51,
+                "wantedBy": 57
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 17.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618105"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:30.26Z"
+        },
+        {
+            "setID": 29750,
+            "number": "10921",
+            "numberVariant": 1,
+            "name": "Super Heroes Lab",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "subtheme": "Marvel Super Hero Adventures",
+            "category": "Normal",
+            "released": true,
+            "pieces": 30,
+            "minifigs": 3,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10921-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10921-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10921-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 99,
+                "wantedBy": 112
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618112"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:40.367Z"
+        },
+        {
+            "setID": 30354,
+            "number": "10922",
+            "numberVariant": 1,
+            "name": "Ariel's Undersea Castle",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 35,
+            "minifigs": 1,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10922-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10922-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10922-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 2,
+                "wantedBy": 31
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 1,
+            "additionalImageCount": 11,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618129"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-27T20:31:53.423Z"
+        },
+        {
+            "setID": 30352,
+            "number": "10924",
+            "numberVariant": 1,
+            "name": "Lightning McQueen's Race Day",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 42,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10924-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10924-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10924-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 4,
+                "wantedBy": 28
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 9,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618136"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:12:58.33Z"
+        },
+        {
+            "setID": 29759,
+            "number": "10925",
+            "numberVariant": 1,
+            "name": "Playroom",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 17,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10925-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10925-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10925-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 52,
+                "wantedBy": 55
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 12.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618143"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:40.117Z"
+        },
+        {
+            "setID": 29760,
+            "number": "10926",
+            "numberVariant": 1,
+            "name": "Bedroom",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 16,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10926-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10926-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10926-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 49,
+                "wantedBy": 57
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 12.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618150"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:43.15Z"
+        },
+        {
+            "setID": 29761,
+            "number": "10927",
+            "numberVariant": 1,
+            "name": "Pizza Stand",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 18,
+            "minifigs": 1,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10927-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10927-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10927-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 91,
+                "wantedBy": 65
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 13.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618167"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:46.9Z"
+        },
+        {
+            "setID": 29762,
+            "number": "10928",
+            "numberVariant": 1,
+            "name": "Bakery",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 46,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10928-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10928-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10928-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 20,
+                "wantedBy": 51
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 34.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 34.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 49.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618174"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:54.587Z"
+        },
+        {
+            "setID": 29763,
+            "number": "10929",
+            "numberVariant": 1,
+            "name": "Modular Playhouse",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 129,
+            "minifigs": 3,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10929-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10929-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10929-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 53,
+                "wantedBy": 92
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618181"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:20:54.587Z"
+        },
+        {
+            "setID": 30349,
+            "number": "10930",
+            "numberVariant": 1,
+            "name": "Bulldozer",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 10,
+            "minifigs": 1,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10930-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10930-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10930-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 8,
+                "wantedBy": 22
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 1,
+            "additionalImageCount": 8,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618198"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:13:15.69Z"
+        },
+        {
+            "setID": 30350,
+            "number": "10931",
+            "numberVariant": 1,
+            "name": "Truck & Tracked Excavator",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 20,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10931-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10931-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10931-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 4,
+                "wantedBy": 21
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 17.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 1,
+            "additionalImageCount": 9,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618204"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:13:36.75Z"
+        },
+        {
+            "setID": 30391,
+            "number": "10932",
+            "numberVariant": 1,
+            "name": "Wrecking Ball Demolition",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 56,
+            "minifigs": 3,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10932-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10932-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10932-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 3,
+                "wantedBy": 18
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 1,
+            "additionalImageCount": 15,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618211"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:13:49.86Z"
+        },
+        {
+            "setID": 30355,
+            "number": "10933",
+            "numberVariant": 1,
+            "name": "Tower Crane & Construction",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 123,
+            "minifigs": 5,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10933-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10933-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10933-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 4,
+                "wantedBy": 24
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 114.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 119.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 3,
+            "additionalImageCount": 13,
+            "ageRange": {
+                "min": 2
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618228"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:13:59.017Z"
+        },
+        {
+            "setID": 29764,
+            "number": "10934",
+            "numberVariant": 1,
+            "name": "Creative Animals",
+            "year": 2020,
+            "theme": "Duplo",
+            "themeGroup": "Pre-school",
+            "category": "Normal",
+            "released": true,
+            "pieces": 175,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/10934-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/10934-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/10934-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 8,
+                "wantedBy": 46
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 6,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016668049"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-01-31T11:13:16.46Z"
+        },
+        {
+            "setID": 29765,
+            "number": "11006",
+            "numberVariant": 1,
+            "name": "Creative Blue Bricks",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 52,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11006-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11006-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11006-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 312,
+                "wantedBy": 109
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 6.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 4
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016616576"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:15.04Z"
+        },
+        {
+            "setID": 29766,
+            "number": "11007",
+            "numberVariant": 1,
+            "name": "Creative Green Bricks",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 60,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11007-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11007-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11007-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 265,
+                "wantedBy": 113
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 6.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 4.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 4
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016616583"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:16.697Z"
+        },
+        {
+            "setID": 29767,
+            "number": "11008",
+            "numberVariant": 1,
+            "name": "Bricks and Houses",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 270,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11008-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11008-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11008-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 151,
+                "wantedBy": 161
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 17.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 4
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016616590"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:25.54Z"
+        },
+        {
+            "setID": 29854,
+            "number": "11009",
+            "numberVariant": 1,
+            "name": "Bricks and Lights",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 441,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11009-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11009-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11009-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 107,
+                "wantedBy": 193
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-04T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 4,
+            "additionalImageCount": 9,
+            "ageRange": {
+                "min": 5
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016616606"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-02-01T03:19:09.08Z"
+        },
+        {
+            "setID": 29751,
+            "number": "11010",
+            "numberVariant": 1,
+            "name": "White Baseplate",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 1,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11010-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11010-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11010-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 1084,
+                "wantedBy": 803
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 7.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 6.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 7.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Shrink-wrapped",
+            "availability": "Retail",
+            "instructionsCount": 0,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 4
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016616613"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-07T09:11:00.55Z"
+        },
+        {
+            "setID": 29916,
+            "number": "11011",
+            "numberVariant": 1,
+            "name": "Bricks and Animals",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 1500,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11011-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11011-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11011-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 261,
+                "wantedBy": 248
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 4,
+            "additionalImageCount": 5,
+            "ageRange": {
+                "min": 4
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016668056"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-01-31T11:12:25.693Z"
+        },
+        {
+            "setID": 30200,
+            "number": "11717",
+            "numberVariant": 1,
+            "name": "Bricks Box",
+            "year": 2020,
+            "theme": "Classic",
+            "themeGroup": "Basic",
+            "category": "Normal",
+            "released": true,
+            "pieces": 1500,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/11717-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/11717-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/11717-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 47,
+                "wantedBy": 362
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 64.99,
+                    "dateFirstAvailable": "2020-05-08T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-05-08T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 2,
+            "additionalImageCount": 13,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016722154"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-10T23:29:15.6Z"
+        },
+        {
+            "setID": 29744,
+            "number": "21051",
+            "numberVariant": 1,
+            "name": "Tokyo",
+            "year": 2020,
+            "theme": "Architecture",
+            "themeGroup": "Model making",
+            "subtheme": "Skylines",
+            "category": "Normal",
+            "released": true,
+            "pieces": 547,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21051-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21051-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21051-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 1469,
+                "wantedBy": 1603
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617337"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:32.54Z"
+        },
+        {
+            "setID": 29745,
+            "number": "21052",
+            "numberVariant": 1,
+            "name": "Dubai",
+            "year": 2020,
+            "theme": "Architecture",
+            "themeGroup": "Model making",
+            "subtheme": "Skylines",
+            "category": "Normal",
+            "released": true,
+            "pieces": 740,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21052-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21052-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21052-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 1126,
+                "wantedBy": 1398
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-03T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-03T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617344"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:33:32.79Z"
+        },
+        {
+            "setID": 29940,
+            "number": "21054",
+            "numberVariant": 1,
+            "name": "The White House",
+            "year": 2020,
+            "theme": "Architecture",
+            "themeGroup": "Model making",
+            "subtheme": "Landmark Series",
+            "category": "Normal",
+            "released": true,
+            "pieces": 1483,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21054-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21054-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21054-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 102,
+                "wantedBy": 1480
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {
+                    "retailPrice": 89.99,
+                    "dateFirstAvailable": "2020-06-01T00:00:00Z"
+                },
+                "CA": {},
+                "DE": {
+                    "retailPrice": 99.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 1,
+            "additionalImageCount": 14,
+            "ageRange": {
+                "min": 18
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016617368"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-31T21:14:15.3Z"
+        },
+        {
+            "setID": 29484,
+            "number": "21156",
+            "numberVariant": 1,
+            "name": "BigFig Creeper and Ocelot",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Bigfigs",
+            "category": "Normal",
+            "released": true,
+            "pieces": 184,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21156-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21156-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21156-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 467,
+                "wantedBy": 344
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 12.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 7
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618235"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:47.07Z"
+        },
+        {
+            "setID": 29485,
+            "number": "21157",
+            "numberVariant": 1,
+            "name": "BigFig Pig with Baby Zombie",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Bigfigs",
+            "category": "Normal",
+            "released": true,
+            "pieces": 159,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21157-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21157-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21157-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 371,
+                "wantedBy": 288
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 12.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 14.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 7
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618242"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:54.76Z"
+        },
+        {
+            "setID": 29486,
+            "number": "21158",
+            "numberVariant": 1,
+            "name": "The Panda Nursery",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Minifig-scale",
+            "category": "Normal",
+            "released": true,
+            "pieces": 204,
+            "minifigs": 1,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21158-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21158-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21158-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 512,
+                "wantedBy": 376
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 24.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 19.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 5,
+            "ageRange": {
+                "min": 7
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618259"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:55.023Z"
+        },
+        {
+            "setID": 29487,
+            "number": "21159",
+            "numberVariant": 1,
+            "name": "The Pillager Outpost",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Minifig-scale",
+            "category": "Normal",
+            "released": true,
+            "pieces": 303,
+            "minifigs": 4,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21159-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21159-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21159-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 311,
+                "wantedBy": 351
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 29.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 4,
+            "reviewCount": 1,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 5,
+            "ageRange": {
+                "min": 8
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618266"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:54.773Z"
+        },
+        {
+            "setID": 29488,
+            "number": "21160",
+            "numberVariant": 1,
+            "name": "The Illager Raid",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Minifig-scale",
+            "category": "Normal",
+            "released": true,
+            "pieces": 562,
+            "minifigs": 5,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21160-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21160-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21160-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 292,
+                "wantedBy": 438
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 59.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-03T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 64.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-03T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 4,
+            "reviewCount": 1,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 8
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618273"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:21:55.79Z"
+        },
+        {
+            "setID": 29489,
+            "number": "21161",
+            "numberVariant": 1,
+            "name": "The Crafting Box 3.0",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "category": "Normal",
+            "released": true,
+            "pieces": 564,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21161-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21161-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21161-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 16,
+                "wantedBy": 334
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 74.99,
+                    "dateFirstAvailable": "2020-05-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 99.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 79.99,
+                    "dateFirstAvailable": "2020-05-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 6,
+            "additionalImageCount": 11,
+            "ageRange": {
+                "min": 8
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618280"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-22T20:11:42.27Z"
+        },
+        {
+            "setID": 29490,
+            "number": "21162",
+            "numberVariant": 1,
+            "name": "The Taiga Adventure",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Minifig-scale",
+            "category": "Normal",
+            "released": true,
+            "pieces": 74,
+            "minifigs": 2,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21162-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21162-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21162-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 726,
+                "wantedBy": 360
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 8.99,
+                    "dateFirstAvailable": "2020-01-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 13.99,
+                    "dateFirstAvailable": "2020-01-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 9.99,
+                    "dateFirstAvailable": "2020-01-03T00:00:00Z"
+                }
+            },
+            "rating": 4.7,
+            "reviewCount": 3,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 2,
+            "additionalImageCount": 4,
+            "ageRange": {
+                "min": 7
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618297"
+            },
+            "extendedData": {},
+            "lastUpdated": "2019-12-31T17:22:01.477Z"
+        },
+        {
+            "setID": 30199,
+            "number": "21163",
+            "numberVariant": 1,
+            "name": "The Redstone Battle",
+            "year": 2020,
+            "theme": "Minecraft",
+            "themeGroup": "Licensed",
+            "subtheme": "Minifig-scale",
+            "category": "Normal",
+            "released": true,
+            "pieces": 504,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21163-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21163-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21163-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 27,
+                "wantedBy": 352
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 39.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 44.99,
+                    "dateFirstAvailable": "2020-05-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 49.99,
+                    "dateFirstAvailable": "2020-06-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 54.99,
+                    "dateFirstAvailable": "2020-05-02T00:00:00Z"
+                }
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "Box",
+            "availability": "Retail",
+            "instructionsCount": 4,
+            "additionalImageCount": 9,
+            "ageRange": {
+                "min": 8
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016618303"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-05-22T20:13:02.9Z"
+        },
+        {
+            "setID": 29876,
+            "number": "21321",
+            "numberVariant": 1,
+            "name": "International Space Station",
+            "year": 2020,
+            "theme": "Ideas",
+            "themeGroup": "Miscellaneous",
+            "category": "Normal",
+            "released": true,
+            "pieces": 864,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21321-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21321-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21321-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 3278,
+                "wantedBy": 2103
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 64.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-05T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 99.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 69.99,
+                    "dateFirstAvailable": "2020-02-02T00:00:00Z",
+                    "dateLastAvailable": "2020-06-06T00:00:00Z"
+                }
+            },
+            "rating": 5,
+            "reviewCount": 2,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 2,
+            "additionalImageCount": 10,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016719062"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-01-31T11:11:40.067Z"
+        },
+        {
+            "setID": 30036,
+            "number": "21322",
+            "numberVariant": 1,
+            "name": "Pirates of Barracuda Bay",
+            "year": 2020,
+            "theme": "Ideas",
+            "themeGroup": "Miscellaneous",
+            "category": "Normal",
+            "released": true,
+            "pieces": 2545,
+            "minifigs": 10,
+            "image": {
+                "thumbnailURL": "https://images.brickset.com/sets/small/21322-1.jpg",
+                "imageURL": "https://images.brickset.com/sets/images/21322-1.jpg"
+            },
+            "bricksetURL": "https://brickset.com/sets/21322-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "ownedBy": 1919,
+                "wantedBy": 4407
+            },
+            "LEGOCom": {
+                "US": {
+                    "retailPrice": 199.99,
+                    "dateFirstAvailable": "2020-04-01T00:00:00Z",
+                    "dateLastAvailable": "2020-04-17T00:00:00Z"
+                },
+                "UK": {
+                    "retailPrice": 179.99,
+                    "dateFirstAvailable": "2020-04-01T00:00:00Z"
+                },
+                "CA": {
+                    "retailPrice": 259.99,
+                    "dateFirstAvailable": "2020-04-01T00:00:00Z",
+                    "dateLastAvailable": "2020-04-17T00:00:00Z"
+                },
+                "DE": {
+                    "retailPrice": 199.99,
+                    "dateFirstAvailable": "2020-04-02T00:00:00Z"
+                }
+            },
+            "rating": 4.7,
+            "reviewCount": 3,
+            "packagingType": "Box",
+            "availability": "Retail - limited",
+            "instructionsCount": 2,
+            "additionalImageCount": 71,
+            "ageRange": {
+                "min": 16
+            },
+            "dimensions": {},
+            "barcode": {
+                "EAN": "5702016819601"
+            },
+            "extendedData": {},
+            "lastUpdated": "2020-03-31T18:28:29.633Z"
+        },
+        {
+            "setID": 30313,
+            "number": "21323",
+            "numberVariant": 1,
+            "name": "{?}",
+            "year": 2020,
+            "theme": "Ideas",
+            "themeGroup": "Miscellaneous",
+            "category": "Normal",
+            "released": false,
+            "image": {},
+            "bricksetURL": "https://brickset.com/sets/21323-1",
+            "collection": {
+                "owned": false,
+                "wanted": false,
+                "qtyOwned": 0,
+                "rating": 0,
+                "notes": ""
+            },
+            "collections": {
+                "wantedBy": 186
+            },
+            "LEGOCom": {
+                "US": {},
+                "UK": {},
+                "CA": {},
+                "DE": {}
+            },
+            "rating": 0,
+            "reviewCount": 0,
+            "packagingType": "{Not specified}",
+            "availability": "{Not specified}",
+            "instructionsCount": 0,
+            "additionalImageCount": 0,
+            "ageRange": {},
+            "dimensions": {},
+            "barcode": {},
+            "extendedData": {},
+            "lastUpdated": "2020-05-11T19:57:11.203Z"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "status": "success",
+    "matches": 7,
+    "minifigs": [
+        {
+            "minifigNumber": "adv001",
+            "ownedInSets": 0,
+            "ownedLoose": 1,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "colsh02",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "twn383",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "twn384",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "twn385",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "twn386",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        },
+        {
+            "minifigNumber": "twn387",
+            "ownedInSets": 1,
+            "ownedLoose": 0,
+            "ownedTotal": 1,
+            "wanted": false
+        }
+    ]
+}
