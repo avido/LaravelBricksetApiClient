@@ -1,5 +1,13 @@
 # Laravel Brickset Api Client
 [![Build Status](https://travis-ci.org/avido/LaravelBricksetApiClient.svg?branch=master)](https://travis-ci.org/avido/LaravelBricksetApiClient)
+[![Latest Stable Version](https://poser.pugx.org/avido/LaravelBricksetApiClient/v/stable)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
+[![Total Downloads](https://poser.pugx.org/avido/LaravelBricksetApiClient/downloads)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
+[![License](https://poser.pugx.org/avido/LaravelBricksetApiClient/license)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
+[![composer.lock](https://poser.pugx.org/avido/LaravelBricksetApiClient/composerlock)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
+
+
+
+
 
 Laravel API Client for https://brickset.com/tools/webservices/v3
 ## Installation
