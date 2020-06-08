@@ -1,4 +1,6 @@
 # Laravel Brickset Api Client
+[![Build Status](https://travis-ci.org/avido/LaravelBricksetApiClient.svg?branch=master)](https://travis-ci.org/avido/LaravelBricksetApiClient)
+
 Laravel API Client for https://brickset.com/tools/webservices/v3
 ## Installation
 `composer require avido/laravel-brickset-api-client`
