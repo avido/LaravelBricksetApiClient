@@ -1,9 +1,9 @@
 # Laravel Brickset Api Client
 [![Build Status](https://travis-ci.org/avido/LaravelBricksetApiClient.svg?branch=master)](https://travis-ci.org/avido/LaravelBricksetApiClient)
-[![Latest Stable Version](https://poser.pugx.org/avido/LaravelBricksetApiClient/v/stable)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
-[![Total Downloads](https://poser.pugx.org/avido/LaravelBricksetApiClient/downloads)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
-[![License](https://poser.pugx.org/avido/LaravelBricksetApiClient/license)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
-[![composer.lock](https://poser.pugx.org/avido/LaravelBricksetApiClient/composerlock)](https://packagist.org/packages/avido/LaravelBricksetApiClient)
+[![Latest Stable Version](https://poser.pugx.org/avido/laravel-brickset-api-client/v/stable)](https://packagist.org/packages/avido/laravel-brickset-api-client)
+[![Total Downloads](https://poser.pugx.org/avido/laravel-brickset-api-client/downloads)](https://packagist.org/packages/avido/laravel-brickset-api-client)
+[![License](https://poser.pugx.org/avido/laravel-brickset-api-client/license)](https://packagist.org/packages/avido/laravel-brickset-api-client)
+[![composer.lock](https://poser.pugx.org/avido/laravel-brickset-api-client/composerlock)](https://packagist.org/packages/avido/laravel-brickset-api-client)
 
 
 
